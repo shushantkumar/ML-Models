@@ -5,3 +5,5 @@ It includes the use of standard libraries scikit_learn, pandas, tensorflow, quan
 
 * The Perceptron Model is implementation of a single neuron called Perceptron <br>
   It implements basic gates  that is OR, NOR, AND and NAND gates
+
+* The Linear Regression works on the data of google stocks
