@@ -8,3 +8,6 @@ It includes the use of standard libraries scikit_learn, pandas, tensorflow, quan
 
 * The Linear Regression works on the data of google stocks and using linear regression getting the best fit line <br>
   Then predicting the stock prices for next 30 days
+
+* The K-Nearest algorithm works on data of breast cancer and classifies them into benign or malignant<br>
+  One is using library and other one without using standard library
