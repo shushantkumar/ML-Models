@@ -10,4 +10,10 @@ It includes the use of standard libraries scikit_learn, pandas, tensorflow, quan
   Then predicting the stock prices for next 30 days
 
 * The K-Nearest algorithm works on data of breast cancer and classifies them into benign or malignant<br>
-  One is using library and other one without using standard library
+  One of it using standard library and other one without using standard library
+ 
+* K Means Clustering on Titanic Dataset to predict a person was alive or dead<br>
+  One of it using standard library and other one without using standard library<br>
+
+* Classifier using scikit learn: this implements basic classifier tree.DecisionTreeClassifier() and neural_network.MLPClassifier() to predict<br>
+  Several other classifiers are mentioned as comment in the file
