@@ -15,5 +15,7 @@ It includes the use of standard libraries scikit_learn, pandas, tensorflow, quan
 * K Means Clustering on Titanic Dataset to predict a person was alive or dead<br>
   One of it using standard library and other one without using standard library<br>
 
-* Classifier using scikit learn: this implements basic classifier tree.DecisionTreeClassifier() and neural_network.MLPClassifier() to predict<br>
-  Several other classifiers are mentioned as comment in the file
+* Classifier using scikit learn: this implements basic classifier tree.DecisionTreeClassifier() and neural_network.MLPClassifier() to predict,
+  several other classifiers are mentioned as comment in the file
+
+* Movie Recommender system using dataset of LightFM and predicting top 3 movies and comparing with actual top 3
